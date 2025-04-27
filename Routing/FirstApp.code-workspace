@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../FirstApp"
+		},
+		{
+			"path": "../firstBackendCode"
+		},
+		{
+			"path": "../MiddleWare"
+		},
+		{
+			"path": "../MongoDB"
+		},
+		{
+			"path": "../MVC-pattern"
+		},
+		{
+			"path": "."
+		}
+	]
+}
